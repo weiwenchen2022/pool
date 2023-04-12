@@ -4,7 +4,7 @@ Pool is a simple wrapper for sync.Pool.
 
 ### Installation
 
-`go get github.com/weiwenchen2022/pool.git`
+`go get github.com/weiwenchen2022/pool`
 
 ### Reference
 
