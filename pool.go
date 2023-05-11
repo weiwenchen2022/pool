@@ -2,7 +2,7 @@ package pool
 
 import "sync"
 
-// A simple wrapper for sync.Pool with generic.
+// A Pool is a simple wrapper for sync.Pool with generic.
 type Pool[T any] struct {
 	// New optionally specifies a function to generate
 	// a value when Get would otherwise return zero value.
